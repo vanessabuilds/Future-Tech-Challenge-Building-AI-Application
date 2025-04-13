@@ -38,4 +38,4 @@ Revisiting web scraping with more reliable parsing methods
 
 Adding visual pairing suggestions or interactive UI
 
-Expanding food categories beyond dinner party menus.
+Expanding food categories beyond dinner party menus
