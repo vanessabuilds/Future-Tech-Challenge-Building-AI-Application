@@ -42,4 +42,4 @@ Expanding food categories beyond dinner party menus
 
 ## 🎥 Demo Video
 
-Watch the demo on YouTube: Wine & Whiskey: Your Personal Sommelier (https://youtu.be/vqJk-dEdzCM))
+Watch the demo on YouTube: Wine & Whiskey: Your Personal Sommelier (https://youtu.be/vqJk-dEdzCM)
