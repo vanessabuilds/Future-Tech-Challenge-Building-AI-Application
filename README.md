@@ -39,3 +39,7 @@ Revisiting web scraping with more reliable parsing methods
 Adding visual pairing suggestions or interactive UI
 
 Expanding food categories beyond dinner party menus
+
+## 🎥 Demo Video
+
+Watch the demo on YouTube: Wine & Whiskey: Your Personal Sommelier ([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/vqJk-dEdzCM))
