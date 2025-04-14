@@ -1,8 +1,6 @@
-# Future-Tech-Challenge-Building-AI-Application
-Participant Submission for Decoding Data Science: Future Tech Challenge Building AI Application
+# Building AI Agents
 
-🍷 AI Wine Pairing Assistant
-Participant Submission for Decoding Data Science: Future Tech Challenge — Building an AI Application (No-Code Model)
+🍷 Wine & Whiskey is an AI-powered sommelier that helps users discover ideal wine or whiskey pairings based on their dinner menu. Built with a no-code approach using Mind Studio, the tool allows users to upload meal plans and receive curated pairing suggestions, making entertaining and dining experiences more refined and enjoyable.
 
 Overview
 This project explores the use of no-code tools to build an AI-powered assistant that suggests wine pairings for dinner menus. Developed using Mind Studio, the application leverages modern no-code capabilities to offer practical solutions without traditional software development.
